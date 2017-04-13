@@ -16,3 +16,4 @@ React est une librairie JavaScript **orientée composant** . Un composant React 
 * https://github.com/krasimir/react-in-patterns
 * https://github.com/planningcenter/react-patterns
 * http://reactpatterns.com/
+* https://www.gitbook.com/book/vasanthk/react-bits/details
